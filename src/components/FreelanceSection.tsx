@@ -17,7 +17,7 @@ export function FreelanceSection() {
       impact: 'Digitized restaurant operations, tripled order capacity, and improved workflow efficiency.'
     },
     {
-      year: 2023,
+      year: 2024,
       title: 'ERP — Product Catalog & Inventory',
       description: 'Developed a production ERP for 50K+ products across multiple warehouses, integrating accounting, intelligent product grouping, and real-time dashboards.',
       metrics: '50K+ products | Multi-warehouse sync | Real-time analytics',
@@ -25,7 +25,7 @@ export function FreelanceSection() {
       impact: 'Optimized inventory accuracy, reduced stock errors by 25%, and enabled data-driven business decisions.'
     },
     {
-      year: 2024,
+      year: 2025,
       title: 'Scalable ERP — Equipment Distribution',
       description: 'Engineered a scalable ERP managing 500K+ products, multi-currency transactions, supplier relationships, automated compliance, and real-time sync across 5 warehouses.',
       metrics: '500K+ products | 5 warehouses | Multi-currency | Automated compliance',
