@@ -4,14 +4,14 @@ export function ProjectsSection() {
       year: 2021,
       title: 'Medical AI — Pneumonia Detection System',
       description: 'Engineered deep learning model achieving 94% accuracy in pneumonia detection from chest X-rays. Processed 15K+ images leveraging CNN architecture with transfer learning (ResNet50).',
-      impact: 'Reduced diagnostic time by 60% vs manual analysis. Potential to assist 100K+ patients if deployed.',
+      impact: 'Reduced diagnostic time by 60% vs manual analysis. Potential to assist 1K+ patients if deployed.',
       stack: ['Python', 'TensorFlow', 'CNN Architecture', 'Transfer Learning', 'Kaggle Dataset'],
       focus: 'AI/ML — Healthcare'
     },
     {
       year: 2021,
       title: 'COVID-19 Crisis Response — Mobile Platform',
-      description: 'Built native Android app deployed to 50K+ users during pandemic. Real-time location intelligence for critical health resources with integrated emergency services API.',
+      description: 'Built native Android app deployed to 5K+ users during pandemic. Real-time location intelligence for critical health resources with integrated third-party services API.',
       stack: ['Kotlin', 'Google Maps API', 'YouTube API', 'Real-time Geolocation', 'Firebase'],
       features: [
         'Hospital Finder: Real-time availability & bed capacity',
@@ -19,7 +19,7 @@ export function ProjectsSection() {
         'Emergency Numbers: Location-based ambulance dispatch',
         'Education: Integrated video content with 2M+ views'
       ],
-      impact: 'Direct user impact: 50K+ lives assisted during critical shortage. Demonstrated crisis-driven product thinking.',
+      impact: 'Direct user impact: 5K+ lives assisted during critical shortage. Demonstrated crisis-driven product thinking.',
       focus: 'Mobile Development + Real-time APIs'
     }
   ];
