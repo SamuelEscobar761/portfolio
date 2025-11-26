@@ -11,8 +11,8 @@ export function FreelanceSection() {
     {
       year: 2023,
       title: 'LALAS Restaurant Management — Web + Mobile',
-      description: 'Delivered a web admin panel and native Flutter app for 2K restaurants, supporting 10K+ daily orders with real-time menu updates, order tracking, and kitchen integration.',
-      metrics: '2K+ clients | 10K+ daily orders | <300ms sync',
+      description: 'Delivered a web admin panel and native Flutter app for 2K restaurants, supporting 2K+ daily orders with real-time menu updates, order tracking, and kitchen integration.',
+      metrics: '2K+ clients | 2K+ daily orders | <300ms sync',
       stack: ['PHP', 'MySQL', 'Flutter', 'REST APIs', 'WebSockets'],
       impact: 'Digitized restaurant operations, tripled order capacity, and improved workflow efficiency.'
     },
