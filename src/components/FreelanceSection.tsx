@@ -19,16 +19,16 @@ export function FreelanceSection() {
     {
       year: 2024,
       title: 'ERP — Product Catalog & Inventory',
-      description: 'Developed a production ERP for 50K+ products across multiple warehouses, integrating accounting, intelligent product grouping, and real-time dashboards.',
-      metrics: '50K+ products | Multi-warehouse sync | Real-time analytics',
+      description: 'Developed a production ERP for 100 products across multiple warehouses, integrating accounting, intelligent product grouping, and real-time dashboards.',
+      metrics: '100 products | Multi-warehouse sync | Real-time analytics',
       stack: ['Django', 'PostgreSQL', 'React', 'REST APIs', 'Celery'],
       impact: 'Optimized inventory accuracy, reduced stock errors by 25%, and enabled data-driven business decisions.'
     },
     {
       year: 2025,
       title: 'Scalable ERP — Equipment Distribution',
-      description: 'Engineered a scalable ERP managing 500K+ products, multi-currency transactions, supplier relationships, automated compliance, and real-time sync across 5 warehouses.',
-      metrics: '500K+ products | 5 warehouses | Multi-currency | Automated compliance',
+      description: 'Engineered a scalable ERP managing 800 products, multi-currency transactions, supplier relationships, automated compliance, and real-time sync across 5 warehouses.',
+      metrics: '800 products | 5 warehouses | Multi-currency | Automated compliance',
       stack: ['NestJS', 'PostgreSQL', 'React', 'Redis', 'RabbitMQ'],
       impact: 'Enabled enterprise-scale operations, removed bottlenecks, and ensured regulatory compliance.'
     }
