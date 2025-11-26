@@ -2,7 +2,7 @@ export function HeroSection() {
   const techStack = ['React', 'Node.Js', 'NestJs', 'Django', 'Laravel', 'Kotlin', 'Flutter', 'ML', 'SQL'];
 
   return (
-    <section className="animated-gradient flex items-center justify-center relative py-10 pt-20 px-4">
+    <section id="hero" className="animated-gradient flex items-center justify-center relative pt-32 px-4 mt-16">
       <div className="relative-content text-center max-w-3xl z-10">
         <h1 className="gradient-text text-5xl md:text-7xl font-bold mb-6 leading-tight">
           Samuel Escobar <br />

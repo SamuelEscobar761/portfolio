@@ -35,7 +35,7 @@ export function FreelanceSection() {
   ];
 
   return (
-    <section id="freelance" className="py-10 px-4 max-w-7xl mx-auto">
+    <section id="freelance" className="py-10 pt-20 px-4 max-w-7xl mx-auto">
       <h2 className="text-4xl md:text-5xl font-bold text-center mb-16 pb-4 relative inline-block w-full">
         <span className="gradient-text-purple">Freelance Experience 4 years</span>
         <span className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-16 h-1 bg-gradient-to-r from-sky-500 to-purple-500 rounded"></span>

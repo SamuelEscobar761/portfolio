@@ -1,3 +1,4 @@
+import { Navigation } from './components/Navigation'
 import { HeroSection } from './components/HeroSection'
 import { FreelanceSection } from './components/FreelanceSection'
 import { ProjectsSection } from './components/ProjectsSection'
@@ -9,6 +10,7 @@ function App() {
 
   return (
     <>
+      <Navigation />
       <HeroSection />
       <FreelanceSection />
       <ProjectsSection />
