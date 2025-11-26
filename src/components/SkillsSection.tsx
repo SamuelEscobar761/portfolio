@@ -1,17 +1,36 @@
 export function SkillsSection() {
   const technicalSkills = [
+    // Frontend
     { name: 'React.js', category: 'Modern Frontend', exp: 'SPA Architecture, Hooks, State Management' },
-    { name: 'Django', category: 'Enterprise Backend', exp: 'REST APIs, ORM Optimization, Multi-tenant' },
-    { name: 'Python', category: 'Backend/AI', exp: 'Production Systems, Data Science, Automation' },
     { name: 'TypeScript', category: 'Type-Safe Dev', exp: 'Enterprise Codebases, Complex Types' },
-    { name: 'Kotlin', category: 'Native Mobile', exp: 'Android Apps, High-performance mobile systems' },
-    { name: 'Flutter', category: 'Cross-platform', exp: 'iOS/Android, Real-time sync, Offline-first' },
+
+    // Mobile
+    { name: 'Flutter', category: 'Cross-platform Mobile', exp: 'iOS/Android, Real-time sync, Offline-first' },
+    { name: 'Kotlin', category: 'Native Mobile', exp: 'Android Apps, High-performance systems' },
+
+    // Backend Languages
+    { name: 'Python', category: 'Backend/AI', exp: 'Production Systems, Data Science, Automation' },
+    { name: 'Node.js', category: 'Backend Runtime', exp: 'Asynchronous applications, Event-driven systems' },
+
+    // Backend Frameworks
+    { name: 'Django', category: 'Python Framework', exp: 'REST APIs, ORM Optimization, Multi-tenant' },
+    { name: 'NestJS', category: 'Node.js Framework', exp: 'Scalable microservices, Enterprise patterns' },
+    { name: 'Laravel', category: 'PHP Framework', exp: 'Full-stack web apps, Database architecture' },
+
+    // Databases
     { name: 'PostgreSQL', category: 'SQL Database', exp: 'Query Optimization, Indexing, Scale 100K+' },
     { name: 'MySQL', category: 'SQL Database', exp: 'High-throughput, Replication, Clustering' },
+    { name: 'Supabase', category: 'Backend-as-a-Service', exp: 'Real-time databases, Auth, Vector storage' },
+
+    // API & Architecture
     { name: 'REST/GraphQL', category: 'API Design', exp: 'Scalable APIs, Rate limiting, Versioning' },
-    { name: 'Machine Learning', category: 'AI/ML', exp: 'TensorFlow, CNN, Data preprocessing' },
     { name: 'System Design', category: 'Architecture', exp: 'Microservices, Load balancing, Caching' },
-    { name: 'DevOps/Cloud', category: 'Infrastructure', exp: 'Docker, CI/CD, AWS/GCP deployment' }
+
+    // Infrastructure
+    { name: 'DevOps/Cloud', category: 'Infrastructure', exp: 'Docker, CI/CD, AWS/GCP deployment' },
+
+    // AI/ML
+    { name: 'Machine Learning', category: 'AI/ML', exp: 'TensorFlow, CNN, Data preprocessing' }
   ];
 
   const softSkills = [
