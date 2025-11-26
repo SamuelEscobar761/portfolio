@@ -1,7 +1,7 @@
 export function ContactSection() {
-  const contactEmail = 'samuel@example.com'; // Replace with actual email
-  const linkedinUrl = 'https://linkedin.com/in/samuel-escobar'; // Replace with actual LinkedIn
-  const githubUrl = 'https://github.com/samuel-escobar'; // Replace with actual GitHub
+  const contactEmail = 'samuelescobarbejarano@gmail.com'; // Replace with actual email
+  const linkedinUrl = 'https://www.linkedin.com/in/samuel-escobar7/'; // Replace with actual LinkedIn
+  const githubUrl = 'https://github.com/SamuelEscobar761'; // Replace with actual GitHub
 
   const handleEmailClick = () => {
     window.location.href = `mailto:${contactEmail}`;
